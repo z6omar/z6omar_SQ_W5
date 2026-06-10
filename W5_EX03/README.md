@@ -21,7 +21,7 @@ The console will show any errors in your sketch.
 |------|--------|
 | `assets/images/background.png`             | Generated with GenAI |
 | `assets/images/character_sprite_sheet.png` | Generated with GenAI |
-| `assets/images/key_sprite_sheet.png`       | Generated with GenAI 
+| `assets/images/key_sprite_sheet.png`       | Generated with GenAI |
 
 ## References
 
